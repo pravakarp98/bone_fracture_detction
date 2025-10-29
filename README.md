@@ -2,7 +2,7 @@
 
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)
 
 This repository contains a complete, end-to-end deep learning pipeline to classify bone X-ray images as "fractured" or "not_fractured."
 
